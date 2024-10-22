@@ -1,6 +1,6 @@
 # What Motivates Erasmus Students to Travel During their Erasmus Studies?
 
-### Econometrics
+### Course: Econometrics
 
 ### Portucalense Infante D.Henrique University, WS 16/17
 
